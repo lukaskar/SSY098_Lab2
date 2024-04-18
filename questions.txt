@@ -1,7 +1,14 @@
-Ex 2.6:	Why does it look as it does? Is a learing rate of 0.01 reasonable? What does y < 0 in the lecture notes mean (p. 43, eq 4.4) ?
+Ex 2.6:	Why does it look as it does? Is a learing rate of 0.01 reasonable? What does y < 0 in the lecture
+notes mean (p. 43, eq 4.4) ?
 
 Ex 2.7:	There don't seem to be any significant difference between the two cases (shuffled and not suffled).
 
 Ex 2.8:	Is 100 % accuracy reasonable?
 
-Ex 2.9:	Should we be able to do more than 3 augmentations?
+Ex 2.9:	Should we be able to do more than 3 augmentations or only 90 degree rotations? What is meant by
+the random rotations? Are duplicates ok? Is 100 % accuracy (and 10000 epochs...) reasonable? Why is the
+result worse when we have a larger dataset?
+
+Ex 2.15: Since the dataset seems to be random, do we need to shuffle it?
+
+Ex 2.16: How are we supposed to do? Is calculating the ammount of multiplications enough?
